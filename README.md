@@ -4,4 +4,4 @@ Pandas 모듈을 이용한 변동성 돌파전략 백테스팅
 
 - 2020년1월1일 ~ 2020년8월31일 백테스팅 결과
 
-<img src="result.png" height="400" width="250"/>
+<img src="result.PNG" height="300" width="450"/>
